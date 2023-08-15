@@ -24,7 +24,7 @@ LongBench includes 13 English tasks, 5 Chinese tasks, and 2 code tasks, with the
 
 ## 🔍 Table of Contents
 - [🖥️ Leaderboard](#leaderboard)
-- [⚙️ How to evaluate on LongBench](#how-to-evaluate-on-LongBench)
+- [⚙️ How to evaluate on LongBench](#how-to-evaluate-on-longbench)
 - [📊 Evaluation Result on Each Dataset](#evaluation-result-on-each-dataset)
 - [📄 Acknowledgement](#acknowledgement)
 - [📝 Citation](#citation)
@@ -68,7 +68,7 @@ To more specifically analyze the models' relative performance under different co
 
 > Note: Assume that the model scores x on the data within a specific length range of a task, and y on all data of that task, then the model's **relative score** for that length range is (x/y-1). To better compare the trends of different models, we shift all the lines to 0 on 0-4k.
 
-<a name="how-to-evaluate-on-LongBench"></a>
+<a name="how-to-evaluate-on-longbench"></a>
 ## ⚙️ How to evaluate on LongBench
 
 #### Load Data
